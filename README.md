@@ -1,4 +1,4 @@
-# 🍽️ Odin Recipes
+# Odin Recipes
 
 Este es mi primer proyecto real de HTML dentro del curso **Foundations de The Odin Project**.  
 El objetivo es practicar la estructura básica de un sitio web y trabajar con:
